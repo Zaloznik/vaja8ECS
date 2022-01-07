@@ -5,11 +5,7 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.utils.Logger;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
-/**
- * Utility methods for using with Viewports.
- *
- * @author goran on 20/08/2016.
- */
+
 public class ViewportUtils {
 
     private static final Logger log = new Logger(ViewportUtils.class.getName(), Logger.DEBUG);
